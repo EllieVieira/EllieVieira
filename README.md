@@ -1,4 +1,5 @@
-### Olá! Eu sou a Elisângela Vieira. Bem vindo ao meu repositório! 🤩
+### Olá! Eu sou a Elisângela Vieira. 
+Bem vindo ao meu repositório! 🤩
 
 <div align="center">
   <a href="https://github.com/EllieVieira">
@@ -24,6 +25,6 @@
   <a href="https://pt.duolingo.com/profile/Elyvieira" target="_blank"><img src="https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white" target="_blank"></a>
   <a href="https://www.udemy.com/user/elisangela-vieira-bezerra/" target="_blank"><img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white" target="_blank"></a>
  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/EllieVieira/EllieVieira/blob/output/github-contribution-grid-snake.svg)
  
 </div>
