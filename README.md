@@ -1,5 +1,5 @@
-### Olá! Eu sou a Elisângela Vieira. 
-Bem vindo ao meu repositório! 🤩
+### Olá! Bem vindo(a) ao meu repositório! 🤩
+#### Eu sou a Elisângela Vieira.✨
 
 <div align="center">
   <a href="https://github.com/EllieVieira">
