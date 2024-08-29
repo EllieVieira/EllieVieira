@@ -25,6 +25,6 @@
   <a href="https://pt.duolingo.com/profile/Elyvieira" target="_blank"><img src="https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white" target="_blank"></a>
   <a href="https://www.udemy.com/user/elisangela-vieira-bezerra/" target="_blank"><img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white" target="_blank"></a>
  
-  ![Snake animation](https://github.com/EllieVieira/EllieVieira/blob/output/github-contribution-grid-snake.svg)
+  [![Snake Game](https://github.com/EllieVieira/EllieVieira/actions/workflows/cobrinha1.yml/badge.svg)](https://github.com/EllieVieira/EllieVieira/actions/workflows/cobrinha1.yml)
  
 </div>
