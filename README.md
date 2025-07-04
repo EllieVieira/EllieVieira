@@ -10,7 +10,7 @@
 
 <div style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap; margin-top: 20px;">
 
-  <div style="flex: 1; min-width: 250px;">
+  <div style="flex: 1; min-width: 200px;">
 
   #### Tecnologias que conheço e amo! 💖  
   <div style="display: inline_block">
@@ -37,13 +37,14 @@
 
   </div>
 
-  <div style="flex: 1; min-width: 200px;">
-    <img src="https://github.com/EllieVieira/EllieVieira/blob/main/octocat.png?raw=true" alt="Octocat" width="auto" style="border-radius: 10px;">
+  <div style="flex: 1;">
+    <img src="https://github.com/EllieVieira/EllieVieira/blob/main/octocat.png?raw=true" alt="Octocat" width="200" style="border-radius: 10px;">
   </div>
-  
+</div>
+<br>
  <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EllieVieira/EllieVieira/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EllieVieira/EllieVieira/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/EllieVieira/EllieVieira/output/github-contribution-grid-snake.svg">
 </picture>
-</div>
+
