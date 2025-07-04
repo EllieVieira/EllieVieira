@@ -6,9 +6,8 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EllieVieira&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EllieVieira&layout=compact&langs_count=7&theme=nightowl"/>
   </a>
+  <img src="https://github.com/EllieVieira/EllieVieira/blob/main/img/octocat.png?raw=true" alt="Octocat" width="200" style="border-radius: 10px;">
 </div>
-
-<div style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap; margin-top: 20px;">
 
   <div style="flex: 1; min-width: 200px;">
 
@@ -34,13 +33,8 @@
       <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
     </a>
   </div>
-
-  </div>
-
-  <div style="flex: 1;">
-    <img src="https://github.com/EllieVieira/EllieVieira/blob/main/img/octocat.png?raw=true" alt="Octocat" width="200" style="border-radius: 10px;">
-  </div>
 </div>
+
 <br>
  <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EllieVieira/EllieVieira/output/github-contribution-grid-snake-dark.svg">
