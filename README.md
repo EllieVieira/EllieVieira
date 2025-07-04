@@ -38,7 +38,7 @@
   </div>
 
   <div style="flex: 1;">
-    <img src="https://github.com/EllieVieira/EllieVieira/blob/main/octocat.png?raw=true" alt="Octocat" width="200" style="border-radius: 10px;">
+    <img src="https://github.com/EllieVieira/EllieVieira/blob/main/img/octocat.png?raw=true" alt="Octocat" width="200" style="border-radius: 10px;">
   </div>
 </div>
 <br>
