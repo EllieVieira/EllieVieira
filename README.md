@@ -1,12 +1,8 @@
 ### Olá! Bem vindo(a) ao meu repositório! 🤩
 #### Eu sou a Elisângela Vieira.✨
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=EllieVieira&show_icons=true&theme=dark&locale=pt-br&hide_border=true"
-    media="(prefers-color-scheme: dark)"
-  />
-
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=EllieVieira&show_icons=true&locale=pt-br&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EllieVieira&layout=compact&locale=pt-br&theme=tokyonight&hide_border=true"/>
 
   #### Tecnologias que conheço e amo! 💖
 
