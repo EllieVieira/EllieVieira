@@ -1,35 +1,11 @@
 ### Olá! Bem vindo(a) ao meu repositório! 🤩
 #### Eu sou a Elisângela Vieira.✨
 
-
-<div align="center">
-
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=EllieVieira&show_icons=true&theme=dark&locale=pt-br&hide_border=true"
     media="(prefers-color-scheme: dark)"
   />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=EllieVieira&show_icons=true&locale=pt-br&hide_border=true"
-    media="(prefers-color-scheme: light)"
-  />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EllieVieira&show_icons=true&locale=pt-br&hide_border=true"/>
-</picture>
-
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=EllieVieira&layout=compact&theme=dark&locale=pt-br&hide_border=true"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=EllieVieira&layout=compact&locale=pt-br&hide_border=true"
-    media="(prefers-color-scheme: light)"
-  />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EllieVieira&layout=compact&locale=pt-br&hide_border=true"/>
-</picture>
-
-</div>
-
 
 
   #### Tecnologias que conheço e amo! 💖
