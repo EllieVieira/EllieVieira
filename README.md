@@ -1,7 +1,7 @@
 ### Olá! Bem vindo(a) ao meu repositório! 🤩
 #### Eu sou a Elisângela Vieira.✨
 
-[![Ellie's GitHub stats](https://github-readme-stats.vercel.app/api?username=EllieVieira)](https://github.com/EllieVieira/github-readme-stats)
+[![Ellies's GitHub stats](https://github-readme-stats.vercel.app/api?username=EllieVieira)](https://github.com/anuraghazra/github-readme-stats)
 
   #### Tecnologias que conheço e amo! 💖
 
