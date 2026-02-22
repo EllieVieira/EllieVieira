@@ -1,9 +1,6 @@
 ### Olá! Bem vindo(a) ao meu repositório! 🤩
 #### Eu sou a Elisângela Vieira.✨
 
-[<img height="180em" src="https://github-readme-stats.vercel.app/api?username=EllieVieira&show_icons=true&locale=pt-br&theme=tokyonight&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EllieVieira&layout=compact&locale=pt-br&theme=tokyonight&hide_border=true"/>](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=EllieVieira&show_icons=true)
-![Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=EllieVieira&show_icons=true)
 
   #### Tecnologias que conheço e amo! 💖
 
