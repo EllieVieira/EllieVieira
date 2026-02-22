@@ -1,7 +1,7 @@
 ### Olá! Bem vindo(a) ao meu repositório! 🤩
 #### Eu sou a Elisângela Vieira.✨
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=EllieVieira)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=EllieVieira&theme=nightowl&hide_border=true&border_radius=5&locale=pt)](https://git.io/streak-stats)
 
   #### Tecnologias que conheço e amo! 💖
 
