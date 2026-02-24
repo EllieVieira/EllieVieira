@@ -1,11 +1,11 @@
 ### Olá! Bem vindo(a) ao meu repositório! 🤩
 #### Eu sou a Elisângela Vieira.✨
 
-<h4>
+<h3>
 <a href="https://ellievieira.github.io/" target="_blank">
   🌐 Meu Portfólio
 </a>
-</h4>
+</h3>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=EllieVieira&theme=nightowl&hide_border=true&border_radius=5&locale=pt)](https://git.io/streak-stats)
 
