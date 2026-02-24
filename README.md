@@ -1,7 +1,7 @@
 ### Olá! Bem vindo(a) ao meu repositório! 🤩
 #### Eu sou a Elisângela Vieira.✨
 
-<a href="https://ellievieira.github.io/" target="_blank" style= text-decoration: none>
+<a href="https://ellievieira.github.io/" target="_blank" style= "text-decoration: none">
   <h4>🌐 Meu Portfólio</h4>
 </a>
 
