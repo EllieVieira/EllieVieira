@@ -1,6 +1,8 @@
 ### Olá! Bem vindo(a) ao meu repositório! 🤩
 #### Eu sou a Elisângela Vieira.✨
 
+Meu portfólio online: https://ellievieira.github.io/
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=EllieVieira&theme=nightowl&hide_border=true&border_radius=5&locale=pt)](https://git.io/streak-stats)
 
   #### Tecnologias que conheço e amo! 💖
