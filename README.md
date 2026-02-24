@@ -3,7 +3,7 @@
 
 <h3>
 <a href="https://ellievieira.github.io/" target="_blank">
-  🌐 Meu Portfólio
+  🌐 Meu Portfólio Online
 </a>
 </h3>
 
