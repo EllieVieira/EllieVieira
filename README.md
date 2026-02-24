@@ -1,7 +1,9 @@
 ### Olá! Bem vindo(a) ao meu repositório! 🤩
 #### Eu sou a Elisângela Vieira.✨
 
-Meu portfólio online: https://ellievieira.github.io/
+<a href="https://ellievieira.github.io/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfólio-Acessar-000?style=for-the-badge&logo=vercel&logoColor=white">
+</a>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=EllieVieira&theme=nightowl&hide_border=true&border_radius=5&locale=pt)](https://git.io/streak-stats)
 
